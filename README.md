@@ -1,4 +1,4 @@
-![ZEEDRent — Heavy Equipment Rental Marketplace for Indonesia](assets/readme-banner.jpg)
+![ZEEDRent — Heavy Equipment Rental Marketplace for Indonesia](assets/readme-banner2.jpg)
 
 # ZEEDRent — Heavy Equipment Rental Marketplace for Indonesia
 
