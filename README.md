@@ -1,12 +1,12 @@
-![ZEEDRent - Heavy Equipment Rental Marketplace for Indonesia](assets/readme-banner2.jpg)
+![ZEEDRent — Heavy Equipment Rental Marketplace for Indonesia](assets/readme-banner3.jpg)
 
-# ZEEDRent - Heavy Equipment Rental Marketplace for Indonesia
+# ZEEDRent — Heavy Equipment Rental Marketplace for Indonesia
 
 **ZEEDRent** (Zonal Equipment Exchange & Delivery) is a one-stop rental marketplace for heavy equipment and industrial machinery across Indonesia, serving construction & EPC, mining, manufacturing, logistics, energy, oil & gas, plantations, marine, and infrastructure projects.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-F97316)](https://andikapratamazaid.github.io/website-zeedrent/)
-![Units](https://img.shields.io/badge/Catalog-139%20units-101014)
-![Categories](https://img.shields.io/badge/Categories-26-101014)
+![Units](https://img.shields.io/badge/Catalog-144%20units-101014)
+![Categories](https://img.shields.io/badge/Categories-27-101014)
 ![Languages](https://img.shields.io/badge/Languages-ID%20%7C%20EN%20%7C%20中文-101014)
 ![Status](https://img.shields.io/badge/Status-Design%20Demo-blue)
 
@@ -16,23 +16,24 @@
 
 Renting heavy equipment in Indonesia still runs on phone calls, WhatsApp chats, and opaque pricing. ZEEDRent fixes that with a marketplace model proven abroad (DOZR, BigRentz, Digando), adapted to how Indonesian projects actually work:
 
-- **Transparent total pricing upfront** - rent, mobilization, operator, service fee, and tax are itemized before you pay anything. No hidden charges.
-- **Open supplier profiles** - every supplier is verified (business license, tax ID, fleet documents) and shows its legal details, yard location, ratings, and policies publicly.
-- **Mobilization that matches the machine** - each category ships on the right vehicle (lowbed trailer, self loader, box truck, drive-away, towing pickup) with distance-based estimates to 76 project cities across Indonesia, including inter-island ferry costs.
-- **Call to Book** - every unit books straight into a WhatsApp conversation with the full rental breakdown attached.
-- **Digital contracts & handovers** - e-stamped contracts and photo-based handover reports (BAST) with an 11-step order timeline.
-- **Wet hire & dry hire** - operator-inclusive and operator-optional pricing on the same unit.
+- **Transparent total pricing upfront** — rent, mobilization, operator, service fee, and tax are itemized before you pay anything. No hidden charges.
+- **Open supplier profiles** — every supplier is verified (business license, tax ID, fleet documents) and shows its legal details, yard location, ratings, and policies publicly.
+- **Mobilization that matches the machine** — each category ships on the right vehicle (lowbed trailer, self loader, box truck, drive-away, towing pickup) with distance-based estimates to 76 project cities across Indonesia, including inter-island ferry costs.
+- **Call to Book** — every unit books straight into a WhatsApp conversation with the full rental breakdown attached.
+- **Digital contracts & handovers** — e-stamped contracts and photo-based handover reports (BAST) with an 11-step order timeline.
+- **Wet hire & dry hire** — operator-inclusive and operator-optional pricing on the same unit.
 
 ## Highlights of this demo
 
-- **139 units in 26 categories** from 5 verified suppliers (Jabodetabek, Cikarang–Karawang, and the East Kalimantan mining corridor)
-- **Trilingual interface** - Indonesian, English, and Chinese (中文） with flag switcher, just like a production marketplace
-- **Category landing pages** for all 26 categories with live stats, FAQs, related categories, and top cities
-- **DOZR-style filters** - keyword, category, class/size, city, and operator options, all combinable
-- **Smart search comboboxes** - pick or type equipment types and project cities (76 cities grouped by island; haul trucks are limited to 18 mining-area cities)
-- **Warehouses done properly** - multi-use warehouse units rented monthly/yearly with a 5% discount from 12 months, realistic per-m² pricing, nearby toll/port/airport access info, and an embedded location map for every warehouse
-- **ZEEDRent HUB blog** - six original Indonesian articles on equipment comparisons, rental costs, and field tips
-- Real photography throughout - no AI-generated images
+- **144 units in 27 categories**
+- **Barge (Tongkang) charter** with its own system: monthly charter or per-trip pricing, tug boat included, available in port cities only from 5 verified suppliers (Jabodetabek, Cikarang–Karawang, and the East Kalimantan mining corridor)
+- **Trilingual interface** — Indonesian, English, and Chinese (中文） with flag switcher, just like a production marketplace
+- **Category landing pages** for all 27 categories with live stats, FAQs, related categories, and top cities
+- **DOZR-style filters** — keyword, category, class/size, city, and operator options, all combinable
+- **Smart search comboboxes** — pick or type equipment types and project cities (76 cities grouped by island; haul trucks are limited to 18 mining-area cities)
+- **Warehouses done properly** — multi-use warehouse units rented monthly/yearly with a 5% discount from 12 months, realistic per-m² pricing, nearby toll/port/airport access info, and an embedded location map for every warehouse
+- **ZEEDRent HUB blog** — six original Indonesian articles on equipment comparisons, rental costs, and field tips
+- Real photography throughout — no AI-generated images
 
 ## Categories
 
@@ -56,7 +57,7 @@ Heavy equipment brands follow the Indonesian rental market: **Sany, XCMG, and Ca
 
 ## How it works
 
-**For renters** - search or pick a category → compare units and total prices → open the unit, set dates, duration, and project city → the breakdown (rent + mobilization + operator + fees + tax) updates live → tap **Call to Book** to confirm on WhatsApp → digital contract → tracked mobilization → digital handover → rent, extend, or return.
+**For renters** — search or pick a category → compare units and total prices → open the unit, set dates, duration, and project city → the breakdown (rent + mobilization + operator + fees + tax) updates live → tap **Call to Book** to confirm on WhatsApp → digital contract → tracked mobilization → digital handover → rent, extend, or return.
 
 **For suppliers** — register and verify the company → list units for free → receive orders and RFQs → deliver with a digital handover → get paid on a guaranteed schedule.
 
@@ -82,16 +83,6 @@ Single-file HTML/CSS/JavaScript single-page app (hash routing), no build step, h
 index.html          # the whole app: data, templates, i18n (ID/EN/中文）, pricing engine
 assets/             # unit & category photography, logos, this banner
 ```
-
-## Screenshots
-
-| Catalog | Unit detail |
-|---|---|
-| ![Catalog](assets/cat2-excavator.jpg) | ![Excavator](assets/excavator-pc200.jpg) |
-
-| Mining vehicles | Warehouse |
-|---|---|
-| ![Mining vehicles](assets/cat2-kendaraan-tambang.jpg) | ![Warehouse](assets/cat2-gudang.jpg) |
 
 ## Disclaimer
 
